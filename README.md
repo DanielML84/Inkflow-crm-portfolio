@@ -11,18 +11,22 @@ Desarrollada como una SPA (Single Page Application), soluciona la desorganizaci�
 ## 🚀 Funcionalidades Principales
 
 ### 🔐 Seguridad y Acceso
+![Imagen de inicio de sesión](https://github.com/DanielML84/Inkflow-crm-portfolio/blob/main/sesion.jpg?raw=true)
 * **Autenticación Robusta:** Sistema de Login seguro basado en tokens (Laravel Sanctum).
 * **Protección de Rutas:** Guardias de navegación en Frontend y Middleware en Backend.
 
 ### 📅 Gestión y Organización
+![Imagen de agenda](https://github.com/DanielML84/Inkflow-crm-portfolio/blob/main/agenda.jpg?raw=true)
 * **Agenda Visual Interactiva:** Calendario mensual integrado (FullCalendar) con filtrado por artista.
 * **Gestión de Clientes y Artistas:** CRUD completo con búsqueda en tiempo real y paginación.
 
 ### 🎨 Flujo de Trabajo (Workflows)
+![Imagen de hitos](https://github.com/DanielML84/Inkflow-crm-portfolio/blob/main/hitos.jpg?raw=true)
 * **Sistema de Hitos:** Seguimiento del ciclo de vida de cada cita (Diseño, Señal, Sesión, Pago) con estados visuales.
 * **Automatización:** Generación automática de hitos estándar al crear una cita.
 
 ### 💻 Experiencia de Usuario (UX)
+![Imagen de dashboard](https://github.com/DanielML84/Inkflow-crm-portfolio/blob/main/dashboard.jpg?raw=true)
 * **Interfaz Moderna:** Diseño oscuro (Dark Mode) construido con Tailwind CSS.
 * **Feedback Inmediato:** Notificaciones Toast y alertas modales (SweetAlert2) para todas las acciones.
 * **SPA:** Navegación fluida sin recargas de página gracias a Vue Router.
