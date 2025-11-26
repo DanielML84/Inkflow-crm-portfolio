@@ -1,6 +1,6 @@
 # 🖋️ InkFlow CRM - Gestión Integral para Estudios de Tatuajes
 
-![InkFlow CRM Dashboard](ruta_a_tu_imagen_principal.png)
+![Imagen de inicio](https://github.com/DanielML84/Inkflow-crm-portfolio/blob/main/inicio.jpg?raw=true)
 
 ## 📖 Descripción
 
